@@ -1,9 +1,9 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+description: "Dhruv Bhatia's personal website."
+tags: [dhruv bhatia, dhruv bhatia melbourne]
 image:
-  feature: texture-feature-01.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: header.jpg
+  credit: Mica Grange
+  creditlink: http://www.micagrange.com/
 ---

@@ -1,29 +1,29 @@
-title:            Site Title
-tagline:          A short tagline
-description:      Describe your website.
+title:            Dhruv Bhatia
+tagline:          Dhruv's thoughts.
+description:      Dhruv Bhatia's blog.
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-site.com
+url:              http://dhruvbhatia.com
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  name:           Dhruv Bhatia
+  avatar:         me.jpg
+  bio:            "Whisky drinker, data-driven digital marketer, and technology lover.</p><p>From Melbourne, Australia.</p>"
+  email:          dhruv@dhruvbhatia.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  linkedin:       
+  twitter:        dhruv_au
+  facebook:       dhruvb
+  github:         dhruvbhatia
+  linkedin:       214148056
   instagram:      
   lastfm:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:    https://plus.google.com/105041616146057386035
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics:   UA-20416806-1
+google_verify:      iIYQhQjWVz5IytKp5Z7AAwhZ-NxUk0kN5EuBoLRLW24
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:        
 
@@ -32,16 +32,16 @@ bing_verify:
 links:
   - title: About
     url: /about
-  - title: Articles
-    url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Thoughts
+    url: /thoughts
+  - title: Projects
+    url: /projects
+  # - title: Made Mistakes
+  #   url: http://mademistakes.com
+  #   external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Australia/Melbourne
 future:      true
 pygments:    true
 markdown:    kramdown

@@ -1,26 +1,34 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Theme
-tagline: Minimal Mistakes, a Jekyll Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 9-9-2013
+title: About Me
+tagline: Who is Dhruv Bhatia?
+tags: [about, dhruv bhatia, dhruv bhatia melbourne]
+modified: 17-11-2013
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: header-2.jpg
+  credit: Jared Marshall
+  creditlink: http://500px.com/JaredMarshall
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+Hi, I'm Dhruv, a young Gen Y from Melbourne, Australia. I like playing with new technologies and finding practical applications for them. I built this site to share my thoughts and circulate things that interest me. There are **three key subjects** that content here will focus on:
 
-## Minimal Mistakes is all about:
+* Startup/Technology News
+* Data-Driven Marketing
+* My Personal Projects
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments. Content first --- other widget nonsense never.
-* Large feature images for posts and pages.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+## Fun Facts:
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+* Progressive Rock is my favourite genre of music. Every smartdevice I own *must* have Pink Floyd on it[^1].
+* Hong Kong is my favourite travel destination to date.
+* I've worked across a wide spectrum of places.. from small startups, to large corporates. Perspective is a *great* thing.
+* Favourite quote: `Change the world, or be changed by it.`
 
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
+## Get In Touch:
+
+All of my posts here will have a Disqus powered commentary widget. I encourage you to contribute your thoughts.
+Alternatively, feel free to contact me through one of the social networks on the left, or drop me an email:  
+
+<a markdown="0" href="mailto:dhruv@dhruvbhatia.com?subject=Hi Dhruv!" class="btn">Email Dhruv</a>
+
+[^1]: Though Neo-Prog and the modern stuff sits well with me too!
